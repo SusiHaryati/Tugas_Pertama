@@ -1,0 +1,52 @@
+/* File: App.css */
+
+.countainer {
+  color: #995e95;
+  padding: 20px;
+  max-width: 500px;
+  margin: 0 auto;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+.countainer h1{
+  text-align: center;
+}
+
+.isi {
+  background-color: #eac3eb;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 2px 4px rgba(63, 57, 57, 0.1);
+  text-align: center;
+}
+
+.isi img {
+  max-width: 30%;
+  height: auto;
+  border-radius: 10px;
+  margin-bottom: 20px;
+}
+
+.isi h1, .isi h3 {
+  margin: 10px 0;
+}
+
+.hoby {
+  display: inline-block;
+  margin: 5px;
+}
+
+.hoby button {
+  padding: 10px 20px;
+  font-size: 16px;
+  color: #ffffff;
+  background-color: #995e95;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.hoby button:hover {
+  background-color: #7eaddf;
+}
